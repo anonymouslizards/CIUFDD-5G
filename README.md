@@ -1,7 +1,7 @@
 # CIUFDD-5G
 Configurable IoT UDP Flood DDoS Dataset for 5G
 
-Due to repository size constraints, the complete generated datasets and PCAP files are not included. However, the provided simulation and processing scripts, configurations, and random seeds enable the datasets and PCAP files to be regenerated.
+Due to repository size constraints, the complete generated datasets and PCAP files are not included. However, the provided simulation and processing scripts, configurations, and random seeds enable the datasets and PCAP files to be completely regenerated.
 
 Tested on Ubuntu 24.04.4 LTS with ns-3.40, 5G-LENA v2.6.y, Python 3.12.3
 and TShark 4.6.6.
