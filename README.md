@@ -125,3 +125,7 @@ If no topology flag is given, DMgNBAT is used by default.
 
 Without `--RngRun`, the default seed is 1, so the output files are written
 as `run1` and overwrite any existing files with that seed.
+
+
+
+Due to repository size constraints, the complete generated PCAP and labeled dataset files are not included. However, the simulation and processing scripts required to regenerate the datasets are provided.
