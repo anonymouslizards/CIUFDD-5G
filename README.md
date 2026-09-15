@@ -128,4 +128,4 @@ as `run1` and overwrite any existing files with that seed.
 
 
 
-Due to repository size constraints, the complete generated PCAP and labeled dataset files are not included. However, the simulation and processing scripts required to regenerate the datasets are provided.
+Due to repository size constraints, the complete generated datasets and PCAP files are not included. However, the provided simulation and processing scripts, configurations, and random seeds enable their regeneration.
