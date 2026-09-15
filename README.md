@@ -1,6 +1,7 @@
 # CIUFDD-5G
 Configurable IoT UDP Flood DDoS Dataset for 5G
 
+Due to repository size constraints, the complete generated datasets and PCAP files are not included. However, the provided simulation and processing scripts, configurations, and random seeds enable their regeneration.
 
 Tested on Ubuntu 24.04.4 LTS with ns-3.40, 5G-LENA v2.6.y, Python 3.12.3
 and TShark 4.6.6.
@@ -125,7 +126,3 @@ If no topology flag is given, DMgNBAT is used by default.
 
 Without `--RngRun`, the default seed is 1, so the output files are written
 as `run1` and overwrite any existing files with that seed.
-
-
-
-Due to repository size constraints, the complete generated datasets and PCAP files are not included. However, the provided simulation and processing scripts, configurations, and random seeds enable their regeneration.
